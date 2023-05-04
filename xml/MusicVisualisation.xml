@@ -10,7 +10,7 @@
 			<include>FullscreenDimensions</include>
 			<fadetime>400</fadetime>
 			<colordiffuse>26ffffff</colordiffuse>
-			<texture fallback="special://skin/extras/backgrounds/music_visualiser.jpg" background="true">$INFO[MusicPlayer.Property(Fanart_Image)]</texture>
+			<texture background="true">$INFO[MusicPlayer.Property(Fanart_Image)]</texture>
 		</control>
 		<!-- Artist slideshow -->
 		<control type="multiimage">
